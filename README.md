@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently in graduate school and working on natural language processing. I am passionate about learning knowledge, documentation, communities and more!
+
+I’m currently learning basic research knowledge in AI.
